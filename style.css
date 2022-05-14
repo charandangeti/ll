@@ -1,0 +1,22 @@
+body{
+background-color:dodgerblue;   
+color: dimgray; 
+}
+
+.heading{
+    width: 100%;
+    font-size:medium;
+    font-weight: bold;
+  font-family:sans-serif;}
+
+  #camera{  
+      border: 2px dashed black; 
+     width: 350px; 
+      height: 300px;}
+
+      #result{  
+        border: 2px dashed black; 
+       width: 350px; 
+        height: 300px;}
+        #result_object_name, #result_object_accuracy{
+            	color: yellow;}
